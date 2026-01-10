@@ -5,3 +5,4 @@ sphinx-copybutton
 sphinx-markdown-builder==0.6.8
 myst-parser
 cogapp
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
